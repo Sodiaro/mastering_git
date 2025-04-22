@@ -1,4 +1,4 @@
-Hello World!
+Building an image gallary
 
 
 Mastering Git
