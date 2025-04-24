@@ -1,4 +1,4 @@
-Building an image gallary
+Building a sport image gallary
 
 
 Mastering Git
