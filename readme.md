@@ -5,4 +5,4 @@ This Project isn't just for html, css and javaScript
 Mainly for practicing Git and Github 
 
 
-Mastering Git
+Mastering Git & Github
